@@ -5,6 +5,7 @@ langchain-groq
 python-dotenv
 streamlit
 langchain-tavily
-langgraph-checkpoint-sqlite
 psycopg[binary,pool]
 langgraph-checkpoint-postgres
+FastAPI
+-e .

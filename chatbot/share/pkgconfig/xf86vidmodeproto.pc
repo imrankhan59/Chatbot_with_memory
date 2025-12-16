@@ -1,0 +1,7 @@
+prefix=/home/imran-khan/Projects/Chatbot_with_memory/chatbot
+includedir=${prefix}/include
+ 
+Name: XF86VidModeProto
+Description: XF86VidMode extension headers
+Version: 2.3.1
+Cflags: -I${includedir}

@@ -1,0 +1,7 @@
+prefix=/home/imran-khan/Projects/Chatbot_with_memory/chatbot
+includedir=${prefix}/include
+ 
+Name: KBProto
+Description: KB extension headers
+Version: 1.0.7
+Cflags: -I${includedir}

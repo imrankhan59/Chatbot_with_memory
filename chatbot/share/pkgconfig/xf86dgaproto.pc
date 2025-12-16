@@ -1,0 +1,7 @@
+prefix=/home/imran-khan/Projects/Chatbot_with_memory/chatbot
+includedir=${prefix}/include
+ 
+Name: XF86DGAProto
+Description: XF86DGA extension headers
+Version: 2.1
+Cflags: -I${includedir}

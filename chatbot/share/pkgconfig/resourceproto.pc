@@ -1,0 +1,7 @@
+prefix=/home/imran-khan/Projects/Chatbot_with_memory/chatbot
+includedir=${prefix}/include
+ 
+Name: ResourceProto
+Description: Resource extension headers
+Version: 1.2.0
+Cflags: -I${includedir}

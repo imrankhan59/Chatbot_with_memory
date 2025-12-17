@@ -8,4 +8,7 @@ langchain-tavily
 psycopg[binary,pool]
 langgraph-checkpoint-postgres
 FastAPI
+faiss-cpu
+pypdf  
+sentence-transformers
 -e .
